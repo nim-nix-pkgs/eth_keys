@@ -11,7 +11,6 @@
   inputs.src-eth_keys-master.ref   = "refs/heads/master";
   inputs.src-eth_keys-master.owner = "status-im";
   inputs.src-eth_keys-master.repo  = "nim-eth-keys";
-  inputs.src-eth_keys-master.dir   = "";
   inputs.src-eth_keys-master.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
